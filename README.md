@@ -1,4 +1,4 @@
-# IGM Version 2.0.0
+# IGM Version v2.0.0
 
 ```json
 {
